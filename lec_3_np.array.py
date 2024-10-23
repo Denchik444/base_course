@@ -7,6 +7,7 @@ b = np.array(a) # создание массива из заданного спи
 print(type(a))
 print(type(b))
 
+print(b)
 print(a * b)
 print(a / b)
 print(a - b)
