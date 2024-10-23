@@ -1,4 +1,4 @@
-import math
+import 
 h = 100
 α = 45
 β = 35
