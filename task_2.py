@@ -5,5 +5,5 @@ h = 100
 β = 35
 
 
-SPEED = ((g * h * (math.tan(β) ** 2)) / (2 * (math.tan(α) ** 2) * (1 - math.tan(β) * math.tan(α))) ** 0.5) 
+SPEED = ((g * h * (math.tan(β) ** 2)) / (2 * (math.tan(α) ** 2) * (1 - math.tan(β) * math.tan(α)))) ** 0.5
 print(SPEED)
