@@ -12,10 +12,10 @@ print(MASS2)
 MASS3 = np.arange(0, 100, N)
 print(MASS3)
 
-W = 
+
 for i in range(len(N)):
     
-        W += N[i]
+        
 
 
 
